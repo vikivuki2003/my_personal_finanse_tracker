@@ -3,7 +3,7 @@
 My Personal Finance Tracker is a Python-based application designed to help users manage their personal finances effectively. 
 This application allows users to track their income and expenses, generate reports, and visualize financial data over time.
 
-## Features
+## **Features**
 
 - **Add Transactions**: Easily log income and expenses with detailed descriptions.
 - **View Transactions**: Filter and view transactions within a specified date range.
@@ -12,7 +12,7 @@ This application allows users to track their income and expenses, generate repor
 - **Visualizations**: Plot income and expenses over time for better insights.
 - **CSV Storage**: All data is stored in a CSV file for easy access and management.
 
-## Technologies Used
+## **Technologies Used**
 
 - **Programming Language**: Python
 - **Libraries**:
