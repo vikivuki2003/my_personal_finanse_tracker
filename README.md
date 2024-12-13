@@ -21,7 +21,7 @@ This application allows users to track their income and expenses, generate repor
   - `csv` for handling CSV file operations
 - **Data Storage**: CSV files
 
-## Installation
+## **Installation**
 
 To set up the project locally, follow these steps:
 
